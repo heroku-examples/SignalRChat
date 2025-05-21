@@ -2,6 +2,8 @@
 
 Building a SignalR chat application with C# and .NET, then scaling with a Redis backplane and multiple dynos on Heroku, with session affinity (sticky sessions)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/heroku-examples/SignalRChat)
+
 ## Prerequisites
 
 - [.NET 9 SDK](https://learn.microsoft.com/en-us/dotnet/core/install/)
