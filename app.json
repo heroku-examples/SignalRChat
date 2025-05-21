@@ -1,0 +1,6 @@
+{
+  "name": "SignalRChat",
+  "description": "A sample chat application in C# and .NET",
+  "repository": "https://github.com/heroku-examples/SignalRChat",
+  "keywords": ["C#", ".NET", "Redis"]
+}
